@@ -1,0 +1,1 @@
+# alat-gudang-sekolah
