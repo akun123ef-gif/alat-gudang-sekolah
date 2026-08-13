@@ -1,4 +1,4 @@
-# 🧹 Aplikasi Peminjaman Kebersihan Sekolah
+# 🧹 Aplikasi Peminjaman Gudang Sekolah
 
 ![PHP](https://img.shields.io/badge/PHP-8.2%2B-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
